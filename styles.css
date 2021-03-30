@@ -1,0 +1,32 @@
+body {
+    background-color: #28292b;
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: wheat;
+}
+
+a:hover, a:focus {
+    color: yellowgreen;
+    text-decoration: underline;
+}
+
+a:active {
+    color: red;
+}
